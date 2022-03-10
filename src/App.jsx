@@ -1,6 +1,5 @@
+import './styles/global.css'
+
 export function App() {
-  throw new Error('Eita')
-
-
-  return <h1>Hello World, Daniel</h1>
+  return <h1>Hello World, Daniel Borges</h1>
 }
